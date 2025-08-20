@@ -4,7 +4,7 @@ This project simulates a music streaming platform and demonstrates database desi
 
 ## 📖 Project Report
 You can view the full detailed report here:  
-[📄 Download Project Report (PDF)](./Music_Streaming_Analytics_Report022.pdf)
+[📄 Download Project Report (PDF)](./Music_Streaming_Analytics_Report.pdf)
 
 ## 📂 Contents
 - Database schema (8 tables: Users, Artists, Albums, Songs, Playlists, PlaylistSongs, ListeningHistory, Subscriptions)
