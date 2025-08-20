@@ -1,19 +1,30 @@
 # 🎵 Music Streaming Analytics Database (MySQL)
 
-This project simulates a music streaming platform and demonstrates database design, queries, and analytics using *MySQL*.
+This project simulates a *music streaming platform* and demonstrates database design, SQL queries, and analytics using *MySQL*.
+
+---
 
 ## 📖 Project Report
-You can view the full detailed report here:  
-[📄 Download Project Report (PDF)](./Music_Streaming_Analytics_Report1.pdf)
+📄 [Download Full Detailed Report (PDF)](./Music_Streaming_Analytics_Report1.pdf)
 
-## 📂 Contents
-- Database schema (8 tables: Users, Artists, Albums, Songs, Playlists, PlaylistSongs, ListeningHistory, Subscriptions)
-- ER Diagram
-- Queries (DDL, DML, Aggregates, Subqueries, Joins, Stored Procedure, Trigger)
-- Sample data inserted
-- Results of queries
+---
+
+## 📂 Project Contents
+- 🗄 *Database Schema* (8 tables: Users, Artists, Albums, Songs, Playlists, PlaylistSongs, ListeningHistory, Subscriptions)
+- 📊 *ER Diagram* for better visualization
+- 📝 *SQL Queries*:
+  - DDL (CREATE, ALTER, DROP)
+  - DML (INSERT, UPDATE, DELETE)
+  - Joins & Subqueries
+  - Aggregate Functions (GROUP BY, HAVING)
+  - Stored Procedure
+  - Trigger
+- 🎶 *Sample Data Inserted*
+- 📈 *Query Results with Explanations*
+
+---
 
 ## 🚀 How to Run
-1. Clone this repo  
+1. Clone this repository:
    ```bash
    git clone https://github.com/ramya-ishu/Music_Streaming_SQL.git
