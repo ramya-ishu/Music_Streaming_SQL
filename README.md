@@ -5,7 +5,7 @@ This project simulates a *music streaming platform* and demonstrates database de
 ---
 
 ## 📖 Project Report
-📄 [Download Full Detailed Report (PDF)](./Music_Streaming_Analytics_Report1.pdf)
+📄 [Download Full Detailed Report (PDF)](./Music_Streaming_Analytics_Report.pdf)
 
 ---
 
